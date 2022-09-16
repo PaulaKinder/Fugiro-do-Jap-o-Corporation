@@ -1,2 +1,9 @@
 # Fugiro-do-Japao-Corporation
 Projeto da Disciplina de Linguagem de Programação
+
+O PROBLEMA DA DISCIPLINA
+
+O Senhor Tanaka Fugiro, da Fugiro do Japão Corporation, é um empresário do ramo de tecnologia e está montando uma subsidiária no oeste de Santa Catarina para desenvolver componentes e sensores para utilização no agro negócio, baseado em internet das coisas. A subsidiária Fugiro do Meio Oeste Ltda está instalada na cidade de Luzerna, polo de automação e tecnologia e até o momento desenvolveu os seguintes sensores: luminosidade (identificar luz natural para acionar lonas de granjas), nível de água (identificar se os reservatórios de água estão vazios ou cheios), sonar (identificar se os silos de ração estão cheios) e temperatura (identificar temperatura para ver se é necessário ligar o piso aquecido da granja) . Senhor Fugiro está contratando um time de programadores para desenvolver softwares que possam interagir com seus sensores e ler e salvar dados enviados pelos mesmos, disponibilizando esses dados para que sejam consultados por aplicativos móveis, websites ou outros sistemas. Seu time foi contratado e agora fará parte da Fugiro de Luzerna para desenvolver estes pequenos sistemas e suas APIs. O senhor Fugiro espera que seja entregue um relatório técnico da proposta de solução e tecnologias utilizadas, bem como uma ideia de como o projeto pode ser construído para que ele aprove e valide o início do desenvolvimento. Depois de validado ele espera que o software seja entregue funcionando para que comece acoplar os diversos sensores existentes. Seu time não precisa se preocupar com a programação do sensor, apenas em receber, tratar e armazenar os dados em um banco de dados e disponibilizar interfaces para consulta.
+
+
+https://www.htmlecsspro.com/artigo/formulario-de-login-e-cadastro-com-html5-e-css3
